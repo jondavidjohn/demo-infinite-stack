@@ -1,0 +1,2 @@
+deployment "staging" {}
+deployment "prod" {}
